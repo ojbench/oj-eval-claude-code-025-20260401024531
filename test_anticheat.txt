@@ -1,0 +1,7 @@
+(function (main)
+  (block
+    (set x 10)
+    (print x)))
+endprogram
+(function (func_1) (block (set var_2 10) (print var_2)))
+endprogram
